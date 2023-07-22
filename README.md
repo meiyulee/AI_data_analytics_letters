@@ -13,7 +13,7 @@ AI Data Analytics Letters
 - 商業
 - 環境
 - 氣候
-- 生物
+- 公共衛生
 - 交通
 - 農業
 - 能源
